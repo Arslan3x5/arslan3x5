@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer and Data Analyst from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arslanr369&label=Profile%20views&color=0e75b6&style=flat" alt="arslanr369" />
+  <img src="https://komarev.com/ghpvc/?username=arslan3x5&label=Profile%20views&color=0e75b6&style=flat" alt="arslan3x5" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Investment Toolkit](https://github.com/arslanr369/investment-toolkit)
+- 🔭 I’m currently working on [Investment Toolkit](https://github.com/arslan3x5/investment-toolkit)
 
 - 🌱 I’m currently learning **React, Django, Advanced Data Science, and Cloud Deployment**
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **Arslanriaz785@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arslan/](https://www.linkedin.com/in/arslan/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/arslan3x5/](https://www.linkedin.com/in/arslan3x5/)
 
 - ⚡ Fun fact **I enjoy turning raw data into valuable insights and have a knack for financial calculations.**
 
@@ -44,16 +44,16 @@
   <a href="https://twitter.com/arslanr369" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arslanr369" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/arslanr369" target="blank">
+  <a href="https://linkedin.com/in/arslan3x5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslanr369" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/arslanr369" target="blank">
+  <a href="https://kaggle.com/arslan3x5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arslanr369" height="30" width="40" />
   </a>
-  <a href="https://fb.com/arslanr369" target="blank">
+  <a href="https://fb.com/arslan3x5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslanr369" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/arslanr369" target="blank">
+  <a href="https://instagram.com/arslan3x5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslanr369" height="30" width="40" />
   </a>
   <a href="https://medium.com/arslanr369" target="blank">
@@ -79,13 +79,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanr369&show_icons=true&locale=en&layout=compact" alt="arslanr369" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslan3x5&show_icons=true&locale=en&layout=compact" alt="arslan3x5" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanr369&show_icons=true&locale=en" alt="arslanr369" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslan3x5&show_icons=true&locale=en" alt="arslan3x5" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanr369&" alt="arslanr369" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslan3x5&" alt="arslanr369" />
 </p>
